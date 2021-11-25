@@ -5,7 +5,7 @@ This program recreates Conway's famous game of life.
 https://user-images.githubusercontent.com/76058143/143483192-18bcec02-c2f7-4143-984e-bcc75c9e0c2c.mp4
 
 In ordedr to run this program from the terminal use the command 
-  - java Lifejava Life (.init file) (Number of Generations to evolve) (Graphic/Text). 
+  - java Life (.init file) (Number of Generations to evolve) (Graphic/Text)
 
 
 
